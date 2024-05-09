@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+<style>
+        .block-heading {
+            color: #3b99e0;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .summary {
+            border-top: 2px solid #5ea4f3;
+            background-color: #f7fbff;
+            padding: 20px;
+            margin-top: 30px;
+        }
+        .summary button {
+            background-color: #3b99e0;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .product {
+            border: 1px solid #dee2e6;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+    </style>
